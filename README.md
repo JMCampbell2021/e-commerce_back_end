@@ -26,6 +26,10 @@ For this challenge/assignement I was task with building a back end for an e-comm
 
 ## Demostration
 
+
+https://user-images.githubusercontent.com/92699311/155935144-699aa92a-f437-4483-820d-c63a5f459ed7.mp4
+
+
 ## Technologies
 
 - Insomina
